@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+### Myself Saurabh Mishra
+### Currently I am a student of Class 12th
+### Programming Languages - **Python, Bash, Lua, JS, C** 
+
 
 <!--
 **SmishraJacker/SmishraJacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
